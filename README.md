@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi! 👋
+My name is Victor Alves Medeiros and I'm a Frontend Technical Lead at [OSF Digital](https://osf.digital/).
 
-<!--
-**medeirosvictor/medeirosvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working with:
+- Salesforce Commerce Cloud (Demandware) - Certified Salesforce Commerce Cloud Developer B2C (SU18)!
+- Webmastering with Business Manager.
+- HTML/CSS/JS.
+- And the occasional VueJS.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+- Data Science and Machine Learning! Total noob at it but I find it quite awesome to always introduce some analytics to my personal projects.
+- ReactJS and VueJS (Mainly developing silly ideas to enjoy with friends).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: 
+- Send me a message here! [Victor's LinkedIn Profile](https://www.linkedin.com/in/victor-medeiros-623b7711a/?locale=en_US)
+- 😄 Pronouns: he/him
+
+⚡ Fun fact: Most of my achievements are purely luck-based.
