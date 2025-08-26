@@ -2,11 +2,10 @@
 I'm Victor Medeiros - Frontend Developer and Technical Lead at [OSF Digital](https://osf.digital/)
 
 🔭 I’m currently working with
-- ReactJS, VueJS, NextJS;
-- Developer and Tech Lead (mentoring, code reviewing);
+- Salesforce Commerce Cloud + ReactJS;
 - Certified Salesforce Commerce Cloud Developer B2C (SU18)
 - Certified Salesforce Administrator
 - Webmastering with Business Manager;
-- ML/AI with Python/R/Jupyter
+- Old School ML/AI with Python [for fun 😄]
 
-[Victor's LinkedIn Profile](https://www.linkedin.com/in/victor-medeiros-623b7711a/?locale=en_US)
+[LinkedIn](https://www.linkedin.com/in/amedeirosvictor/)
