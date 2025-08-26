@@ -6,6 +6,6 @@ I'm Victor Medeiros - Frontend Developer and Technical Lead at [OSF Digital](htt
 - Certified Salesforce Commerce Cloud Developer B2C (SU18)
 - Certified Salesforce Administrator
 - Webmastering with Business Manager;
-- Old School ML/AI with Python [for fun 😄]
+- ML/AI with Python [for fun 😄]
 
 [LinkedIn](https://www.linkedin.com/in/amedeirosvictor/)
