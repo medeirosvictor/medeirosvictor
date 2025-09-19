@@ -1,11 +1,38 @@
-### Hi! 👋
-I'm Victor Medeiros - Frontend Developer and Technical Lead at [OSF Digital](https://osf.digital/)
+# Hi! 👋
 
-🔭 I’m currently working with
-- Salesforce Commerce Cloud + ReactJS;
-- Certified Salesforce Commerce Cloud Developer B2C (SU18)
-- Certified Salesforce Administrator
-- Webmastering with Business Manager;
-- ML/AI with Python [for fun 😄]
+I'm Victor Medeiros — Frontend Developer and Technical Lead at [OSF Digital](https://osf.digital/)
 
-[LinkedIn](https://www.linkedin.com/in/amedeirosvictor/)
+---
+
+## 👨‍💻 About Me
+
+- Software Engineer with 5+ years of experience, mainly focused on frontend development and technical leadership.
+- Currently working with Salesforce Commerce Cloud + ReactJS.
+- Certified Salesforce Commerce Cloud Developer B2C (SU18) and Certified Salesforce Administrator.
+- Experienced in webmastering with Business Manager and exploring ML/AI with Python for fun 😄.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+ReactJS (TypeScript, JavaScript), SASS, Tailwind, Vite, 
+
+**Backend:**  
+Python (Django), NodeJS, Golang
+
+**Databases:**  
+PostgreSQL, MySQL, and MongoDB
+
+**DevOps/Cloud:**  
+Docker, Linux, Jenkins, Vagrant
+
+**Other:**  
+REST APIs, GitHub, GitLab, BitBucket, JIRA, Contenful, Figma, AI Agents, and Applied Machine Learning
+
+---
+
+## 📬 Contact
+
+- Email: victoramedeiros@gmail.com
+- LinkedIn: [amedeirosvictor](https://www.linkedin.com/in/amedeirosvictor/)
