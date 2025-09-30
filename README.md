@@ -9,7 +9,8 @@ I'm Victor Medeiros — Frontend Developer and Technical Lead at [OSF Digital](h
 - Software Engineer with 5+ years of experience, mainly focused on frontend development and technical leadership.
 - Currently working with Salesforce Commerce Cloud + ReactJS.
 - Certified Salesforce Commerce Cloud Developer B2C (SU18) and Certified Salesforce Administrator.
-- Experienced in webmastering with Business Manager and exploring ML/AI with Python for fun 😄.
+- Experienced in webmastering with Business Manager
+- Exploring and researching ML/AI.
 
 ---
 
