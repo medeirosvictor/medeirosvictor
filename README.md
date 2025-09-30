@@ -36,3 +36,4 @@ REST APIs, GitHub, GitLab, BitBucket, JIRA, Contenful, Figma, AI Agents, and App
 
 - Email: victoramedeiros@gmail.com
 - LinkedIn: [amedeirosvictor](https://www.linkedin.com/in/amedeirosvictor/)
+- Kaggle: [medeirosvictor](https://www.kaggle.com/medeirosvictor)
