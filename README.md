@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Victor Medeiros — Frontend Developer and Technical Lead at [OSF Digital](https://osf.digital/)
+I'm Victor Medeiros — Software Developer at NovaceneAI [NovaceneAI](https://novacene.ai/)
 
 ---
 
