@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Victor Medeiros — Software Developer at NovaceneAI [NovaceneAI](https://novacene.ai/)
+I'm Victor Medeiros — Software Developer at [NovaceneAI](https://novacene.ai/)
 
 ---
 
