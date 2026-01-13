@@ -1,12 +1,12 @@
 # Hi! 👋
 
-I'm Victor Medeiros — Software Developer at [NovaceneAI](https://novacene.ai/)
+I'm Victor Medeiros — Software Developer
 
 ---
 
 ## 👨‍💻 About Me
 
-- Software Engineer with 5+ years of experience, mainly focused on frontend development and technical leadership.
+- Software Engineer with almost a decade of experience, mainly focused on frontend development and technical leadership.
 - Currently working with Salesforce Commerce Cloud + ReactJS.
 - Certified Salesforce Commerce Cloud Developer B2C (SU18) and Certified Salesforce Administrator.
 - Experienced in webmastering with Business Manager
@@ -17,13 +17,13 @@ I'm Victor Medeiros — Software Developer at [NovaceneAI](https://novacene.ai/)
 ## 🛠 Tech Stack
 
 **Frontend:**  
-ReactJS (TypeScript, JavaScript), SASS, Tailwind, Vite, 
+ReactJS (TypeScript, JavaScript), SASS, Tailwind, Vite, Shadcn UI, Chakra UI
 
 **Backend:**  
 Python (Django), NodeJS, Golang
 
 **Databases:**  
-PostgreSQL, MySQL, and MongoDB
+PostgreSQL, MySQL, SQLite, and MongoDB
 
 **DevOps/Cloud:**  
 Docker, Linux, Jenkins, Vagrant
