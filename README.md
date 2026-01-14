@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I'm Victor Medeiros — Software Developer
+I'm Victor Medeiros and below you will find technical stuff about me but my interests are wide from boardgames and movies to janky-home-made hardware and home servers
 
 ---
 
